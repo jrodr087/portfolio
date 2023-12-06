@@ -17,6 +17,8 @@ Currently working on YouTube Playables.
 
 ### Tactician's Union
 
+This is a youtube video! Click!
+
 [![Watch the video](https://img.youtube.com/vi/-9XNGv6Ni_w/maxresdefault.jpg)](https://youtu.be/-9XNGv6Ni_w )
 
 A full length Tactical RPG being made in my spare time since around 2021 on Roblox.
