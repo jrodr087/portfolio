@@ -8,6 +8,7 @@
 
 Worked on Stadia before its shuttering.
 - Starter project was to assist in backend implementation for reacting to other player's screenshots with emojis.
+- As Stadia was being shuttered, I was working on minor designs and implementation of a feature to automatically take screenshots during gameplay based on certain signals, such as achievements.
 
 Currently working on YouTube Playables.
 - Implemented backend for recording user's played game history as well as the user's ability to manage and delete said history.
